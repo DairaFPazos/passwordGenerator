@@ -1,8 +1,8 @@
-# Password Generator
+# 🔐 Password Generator
 
 A modern, responsive web-based password generator with entropy calculation and dark mode support.
 
-## Features
+## ✨ Features
 
 - **Customizable Length**: Generate passwords from 1 to 100 characters
 - **Character Types**: 
@@ -15,7 +15,15 @@ A modern, responsive web-based password generator with entropy calculation and d
 - **Dark Mode**: Toggle between light and dark themes
 - **Responsive Design**: Works on desktop and mobile devices
 
-## Usage
+## 🎬 Demo
+
+![Password Generator Demo](https://via.placeholder.com/600x400/4F46E5/FFFFFF?text=Password+Generator+Demo)
+
+*Screenshot showing the password generator interface with dark mode toggle, character type selection, and entropy visualization.*
+
+![img_1.png](img_1.png)
+
+## 📖 Usage
 
 1. Open `password-generator.html` in any modern web browser
 2. Select desired password length
@@ -23,7 +31,7 @@ A modern, responsive web-based password generator with entropy calculation and d
 4. Click "Generate Password"
 5. View password strength and entropy in bits
 
-## Password Strength Levels
+## 🛡️ Password Strength Levels
 
 - **Very Weak**: < 30 bits
 - **Weak**: 30-49 bits
@@ -31,16 +39,23 @@ A modern, responsive web-based password generator with entropy calculation and d
 - **Strong**: 70-89 bits
 - **Very Strong**: ≥ 90 bits
 
-## Technologies Used
+## 🛠️ Technologies Used
 
 - HTML5
 - CSS3 (Tailwind CSS)
 - Vanilla JavaScript
+- **Built with Amazon Q Developer** - AI-powered coding assistant
 
-## Installation
+## 📦 Installation
 
 No installation required. Simply download and open `password-generator.html` in your web browser.
 
-## License
+## 🤖 Development
+
+This project was developed with the assistance of **Amazon Q Developer**, an AI-powered coding assistant that helped streamline the development process and ensure best practices.
+
+![img.png](img.png)
+
+## 📄 License
 
 MIT License
